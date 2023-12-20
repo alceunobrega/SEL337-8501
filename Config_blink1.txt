@@ -1,0 +1,41 @@
+  679  cd 8501
+  680  pinout
+  681  nano blink_pratoca7.sh
+  682  nano blink_pratica7.sh
+  683  chmod +x ./blink_pratica7.sh
+  684  ./blink_pratica7.sh
+  685  nano blink_pratica7.sh
+  686  pinout
+  687  ls /s
+  688  ls s
+  689  ls 
+  690  ls -s
+  691  nano blink_pratica7.sh
+  692  cd ..
+  693  ./blink.sh
+  694  chmod +x ./blink.sh
+  695  ./blink.sh
+  696  cd 8501
+  697  chmod +x ./blink.sh
+  698  ./blink.sh
+  699  chmod +x ./blink_prat7.sh
+  700  ./blink_prat7.sh
+  701  nano blink_prat7.sh
+  702  ./blink_prat7.sh
+  703  chmod +x ./blink_prat7.sh
+  704  ./blink_prat7.sh
+  705  nano blink_prat7.service
+  706  sudo cp blink_prat7.service /lib/system/system/
+  707  sudo cp blink_prat7.service /lib/systemd/system/
+  708  sudo systemctl start blink_part7
+  709  sudo systemctl start blink_prat7
+  710  sudo systemctl stop blink_prat7
+  711  sudo systemctl enable blink_prat7
+  712  sudo systemctl start blink_prat7
+  713  sudo systemctl stop blink_prat7
+  714  cd 8501
+  715  sudo systemctl stop blink_prat7
+  716  sudo systemctl start blink_prat7
+  717  sudo systemctl stop blink_prat7
+  718  sudo systemctl disable blink_prat7
+  719  history > Config_blink.txt

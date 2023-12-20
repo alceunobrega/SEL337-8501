@@ -1,0 +1,11 @@
+[Unit]
+Description= Piscar LED ao iniciar
+After=multi-user.target
+
+[Service]
+ExecStart=/home/sel/8501/blink_prat7.sh
+#ExecStop=
+user=SEL
+
+[Install]
+WantedBy=multi-user.target

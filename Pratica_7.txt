@@ -1,0 +1,10 @@
+    1  cd 8501
+    2  cd Pratica_7
+    3  nano led.service
+    4  pinout
+    5  sudo cp led.service /lib/systemd/system/
+    6  sudo systemctl start led
+    7  sudo systemctl stop led
+    8  sudo systemctl enable led
+    9  sudo systemctl disable led
+   10  history > Pratica_7.txt
